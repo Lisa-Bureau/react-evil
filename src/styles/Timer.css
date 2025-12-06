@@ -4,11 +4,13 @@
 	gap: 5px;
 	padding-bottom: 70px;
 }
+
 .button-sound-heart {
 	display: flex;
-	justify-content: space-between;
-	align-items: start;
+	justify-content: center;
+	align-items: center;
 }
+
 .timebar {
 	display: flex;
 	gap: 5px;
@@ -17,6 +19,7 @@
 	background-color: green;
 	border: 1px solid white;
 }
+
 .timebar-red {
 	display: flex;
 	gap: 5px;
