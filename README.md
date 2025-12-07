@@ -120,10 +120,17 @@ React Evil/
 
 <img width="1470" height="795" alt="Capture d’écran 2025-12-07 à 16 58 27" src="https://github.com/user-attachments/assets/a20d0bc6-f74f-4a5d-8a2f-afe0e487920a" />
 
+👥 **Équipe**
+
+* Luna Soler : https://github.com/DevByEclipse
+* Emeric Mouillat : https://github.com/Emericodes
+* Jugurta Kadri : https://github.com/Jugurta-Kadri
+* Lisa Bureau : https://github.com/Lisa-Bureau
+
 
 📬 **Contact**
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter :
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter :
 
 *   bureau.lisa03@gmail.com
   
