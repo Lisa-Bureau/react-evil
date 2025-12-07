@@ -12,6 +12,7 @@ Chaque question doit être résolue en 15 secondes, ajoutant une pression consta
 *   **Ambiance visuelle soignée**: Explorez un manoir hanté magnifiquement mis en scène, avec des environnements détaillés et une direction artistique immersive qui donne vie aux pièces traversées.
 *   **Intégration audio atmosphérique**: Bénéficiez d’une bande-son inquiétante et d’effets sonores qui évoluent avec votre progression pour renforcer l’immersion dans ce lieu maudit.
 *   **Suivi de progression et succès**: Débloquez des succès au fil de votre exploration : survie sans perte, partie parfaite, premier joker obtenu, ...
+*   **Disponible sur mobile**: Profitez pleinement de l’expérience sur smartphone : interface optimisée, commandes fluides et immersion totale où que vous soyez.
 
 🛠️ **Stack Technique**
 
